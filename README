@@ -1,0 +1,2 @@
+Allows to wait for a bunch of threads.
+There may be other functions added, but this is mainly what this mini-library is for.
